@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterSelectorApp", "CharacterSelectorApp\CharacterSelectorApp.csproj", "{907AE7A0-385C-48BB-B7DD-EB53A971CBF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiFramworkLibrary", "..\..\UiFramworkLibrary\UiFramworkLibrary\UiFramworkLibrary.csproj", "{EEEBC4C9-3F65-4429-9FB7-748B6C2D0353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907AE7A0-385C-48BB-B7DD-EB53A971CBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907AE7A0-385C-48BB-B7DD-EB53A971CBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907AE7A0-385C-48BB-B7DD-EB53A971CBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907AE7A0-385C-48BB-B7DD-EB53A971CBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEBC4C9-3F65-4429-9FB7-748B6C2D0353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEBC4C9-3F65-4429-9FB7-748B6C2D0353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEBC4C9-3F65-4429-9FB7-748B6C2D0353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEBC4C9-3F65-4429-9FB7-748B6C2D0353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

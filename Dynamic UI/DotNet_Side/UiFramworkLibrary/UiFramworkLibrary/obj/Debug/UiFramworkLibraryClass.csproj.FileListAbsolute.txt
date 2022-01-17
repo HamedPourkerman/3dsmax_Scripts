@@ -1,0 +1,4 @@
+D:\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\obj\Debug\MoveAndResizeClass.dll
+D:\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\obj\Debug\MoveAndResizeClass.pdb
+D:\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\bin\Debug\MoveAndResizeClass.dll
+D:\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\bin\Debug\MoveAndResizeClass.pdb

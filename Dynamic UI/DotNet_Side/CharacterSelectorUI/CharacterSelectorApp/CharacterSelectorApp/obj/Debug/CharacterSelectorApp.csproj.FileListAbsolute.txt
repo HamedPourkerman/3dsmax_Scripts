@@ -1,0 +1,33 @@
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.exe.config
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.exe
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.pdb
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.Properties.Resources.resources
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.csproj.GenerateResource.Cache
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.pdb
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.Form1.resources
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.exe.config
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.exe
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.pdb
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.Form1.resources
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.Properties.Resources.resources
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.csproj.GenerateResource.Cache
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.exe
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.pdb
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.exe
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.csprojResolveAssemblyReference.cache
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.csprojResolveAssemblyReference.cache
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\UiFramworkLibrary.dll
+D:\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\UiFramworkLibrary.pdb
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\UiFramworkLibrary.dll
+D:\Projects\Dynamic UI\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\UiFramworkLibrary.pdb
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.csprojResolveAssemblyReference.cache
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.Form1.resources
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.Properties.Resources.resources
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.csproj.GenerateResource.Cache
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.exe
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\obj\Debug\CharacterSelectorApp.pdb
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.exe.config
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.exe
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\CharacterSelectorApp.pdb
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\UiFramworkLibrary.dll
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\CharacterSelectorUI\CharacterSelectorApp\CharacterSelectorApp\bin\Debug\UiFramworkLibrary.pdb

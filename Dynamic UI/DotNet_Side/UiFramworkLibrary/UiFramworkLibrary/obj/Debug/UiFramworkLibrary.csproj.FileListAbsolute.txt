@@ -1,0 +1,22 @@
+D:\Projects\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\bin\Debug\MoveAndResizeClass.dll
+D:\Projects\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\bin\Debug\MoveAndResizeClass.pdb
+D:\Projects\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\obj\Debug\MoveAndResizeClass.dll
+D:\Projects\Dynamic UI\DotNet_Side\MoveAndResizeClass\MoveAndResizeClass\obj\Debug\MoveAndResizeClass.pdb
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\bin\Debug\UiFramworkLibrary.dll
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\bin\Debug\UiFramworkLibrary.pdb
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.dll
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.pdb
+D:\Projects\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\bin\Debug\UiFramworkLibrary.dll
+D:\Projects\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\bin\Debug\UiFramworkLibrary.pdb
+D:\Projects\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.dll
+D:\Projects\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.pdb
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.csprojResolveAssemblyReference.cache
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\WPFButton.g.cs
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary_MarkupCompile.cache
+D:\Dynamic UI\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary_MarkupCompile.lref
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.csprojResolveAssemblyReference.cache
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.dll
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\obj\Debug\UiFramworkLibrary.pdb
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\bin\Debug\UiFramworkLibrary.dll
+D:\Dynamic UI\2017_Dynamic UI_WindowsForm\DotNet_Side\UiFramworkLibrary\UiFramworkLibrary\bin\Debug\UiFramworkLibrary.pdb
