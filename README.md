@@ -1,2 +1,2 @@
 # 3dsmax_Scripts
-Here Are My 3dsmax Scripts
+Here are my 3dsmax scripts and plugins
